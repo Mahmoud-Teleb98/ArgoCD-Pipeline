@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vprodb
-        image: 3booda24/vprofiledb
+        image: mteleb6464/vprofile-db
         ports:
         - name: vprodb-port
           containerPort: 3306
